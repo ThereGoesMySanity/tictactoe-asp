@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "target": "ES6",
+        "outDir": "wwwroot/js",
+        "module": "ES6",
+        "moduleResolution": "Node",
+        // "outFile": "wwwroot/js/TicTacToe.js"
+    },
+    "include": [
+        "src/ts/**/*"
+    ]
+}
